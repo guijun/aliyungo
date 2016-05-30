@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/denverdino/aliyungo/util"
+	"github.com/guijun/aliyungo/util"
 )
 
 // A Client represents a client of ECS services
